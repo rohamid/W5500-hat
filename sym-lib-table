@@ -5,4 +5,5 @@
   (lib (name "BM03B-SRSS-TBT_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/lib/BM03B-SRSS-TBT_LF__SN_/BM03B-SRSS-TBT_LF__SN_.kicad_sym")(options "")(descr ""))
   (lib (name "RB1-125BAG1A")(type "KiCad")(uri "${KIPRJMOD}/lib/RB1-125BAG1A/RB1-125BAG1A.kicad_sym")(options "")(descr ""))
   (lib (name "rb1-125bagia")(type "Legacy")(uri "${KIPRJMOD}/lib/rb1-125bagia/rb1-125bagia.lib")(options "")(descr ""))
+  (lib (name "RJ45-MyLib")(type "KiCad")(uri "${KIPRJMOD}/RJ45-MyLib.kicad_sym")(options "")(descr ""))
 )
